@@ -1,0 +1,13 @@
+<svg width="100px" height="100px" viewBox="0 0 100 100" 
+  xmlns="http://www.w3.org/2000/svg">
+  <!-- both paths clockwise -->
+  <!--<path d="M 0 0, 60 0, 60 60, 0 60 Z M 15 15, 45 15, 45 45, 15 45Z" fill-rule="nonzero" fill="red" stroke="black" stroke-width="1"/>-->
+
+  <!-- both paths clockwise -->
+  <!--<path d="M 0 0, 60 0, 60 60, 0 60 Z M 15 15, 45 15, 45 45, 15 45Z" fill-rule="evenodd" fill="red" stroke="black" stroke-width="1"/>-->
+
+  <!-- outer path clockwise; inner path counterclockwise -->
+  <!-- <path d="M 0 0, 60 0, 60 60, 0 60 Z M 15 15, 15 45, 45 45, 45 15Z" fill-rule="nonzero" fill="red" stroke="black" stroke-width="1" />-->
+
+  <path d="M 0 0, 60 0, 60 60, 0 60 Z M 15 15, 15 45, 45 45, 45 15Z" fill-rule="evenodd" fill="red" stroke="black" stroke-width="1" />
+</svg>
